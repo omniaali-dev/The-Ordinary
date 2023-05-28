@@ -458,4 +458,14 @@ footer ul li{
 footer .logo{
   margin-top:-83px;
 }
+.basket{
+    position: absolute;
+    top: 22px;
+    right: 73px;
+}
+.card{
+    max-width: 478px;
+    width: 255px;
+    margin: auto;
+}
 }

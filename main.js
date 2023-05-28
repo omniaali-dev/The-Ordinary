@@ -74,8 +74,8 @@ function renderCartItems() {
   cart.forEach((item) => {
     cartItems.innerHTML += `
    <div class="card" style="max-width: 540px;">
-    <div class="row g-0>
-      <div class="col-md-4" style="height:22rem">
+    <div class="row g-0">
+      <div class="col-md-4" style="height:15rem">
       <img style="height:100%;width:100%" src="${item.image}" class="img-fluid rounded-start" alt="...">
     </div>
     <div class="col-md-8">
